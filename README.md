@@ -16,3 +16,15 @@ Further more the second project simulates the components of multimedia pipeline 
 * Sequential transfer
 
 
+**Spectral Selection**
+
+![Alt Text](https://github.com/shivneshr/Multimedia-Processing/blob/master/JPEG_Compression/readme_resource/spectralSelection.gif)
+
+
+**Successive Bit approximation**
+
+![Alt Text](https://github.com/shivneshr/Multimedia-Processing/blob/master/JPEG_Compression/readme_resource/successiveBitApprox.gif)
+
+**Sequential Transfer**
+
+![Alt Text](https://github.com/shivneshr/Multimedia-Processing/blob/master/JPEG_Compression/readme_resource/sequentialAccess.gif)
